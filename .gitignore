@@ -23,9 +23,8 @@
 hs_err_pid*
 
 # Other
-allure-results
+reports
 logs
-screenshots
 target
 .idea
 Selenium_Java_Automation_Framework.iml

@@ -38,6 +38,6 @@ public class BaseTest {
 
     @AfterSuite
     public void closeBrowser() {
-        //Base.tearDown();
+        Base.tearDown();
     }
 }
